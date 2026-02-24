@@ -17,7 +17,7 @@ This project is a recipe website/app where users can view, add, and manage diffe
 ## Installation
 
 1. Clone the repository
-   git clone https://github.com/yourusername/Recipe.git
+   git clone https://github.com/irene18boyles/Recipe.git
 
 2. Install dependencies
    npm install
